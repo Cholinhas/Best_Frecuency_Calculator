@@ -2,7 +2,7 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-\## ✨ Características
+ ✨ Características
 
 
 
@@ -20,7 +20,7 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-\## 📋 Bandas Soportadas
+📋 Bandas Soportadas
 
 
 
@@ -46,11 +46,11 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-\## 🚀 Instalación
+ 🚀 Instalación
 
 
 
-\### Requisitos previos
+ Requisitos previos
 
 \- Python 3.8 o superior
 
@@ -58,7 +58,7 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-\### Pasos de instalación
+ Pasos de instalación
 
 
 
