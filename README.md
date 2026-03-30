@@ -66,7 +66,7 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 ```bash
 
-git clone https://github.com/TU-USUARIO/radio-calculator.git
+git clone https://github.com/Cholinhas/Best_Frecuency_Calculator.git
 
-cd radio-calculator
+cd Best_Frecuency_Calculator
 
