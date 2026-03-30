@@ -6,17 +6,17 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-\- 📡 \*\*Análisis de múltiples bandas\*\*: HF, VHF y UHF (1.8 MHz a 432 MHz)
+\- 📡 Análisis de múltiples bandas: HF, VHF y UHF (1.8 MHz a 432 MHz)
 
-\- 🗺️ \*\*Visualización geográfica\*\*: Mapas interactivos con la ruta de comunicación
+\- 🗺️ Visualización geográfica: Mapas interactivos con la ruta de comunicación
 
-\- 📊 \*\*Cálculos precisos\*\*: Pérdida en espacio libre, ganancia de antena, potencia recibida
+\- 📊 Cálculos precisos: Pérdida en espacio libre, ganancia de antena, potencia recibida
 
-\- 🎯 \*\*Optimización automática\*\*: Encuentra la mejor frecuencia según condiciones
+\- 🎯 Optimización automática: Encuentra la mejor frecuencia según condiciones
 
-\- 💡 \*\*Recomendaciones inteligentes\*\*: Sugerencias para mejorar la comunicación
+\- 💡 Recomendaciones inteligentes: Sugerencias para mejorar la comunicación
 
-\- 🎨 \*\*Interfaz elegante\*\*: Diseño profesional con Tkinter
+\- 🎨 Interfaz elegante: Diseño profesional con Tkinter
 
 
 
@@ -62,7 +62,7 @@ Calculadora profesional para radioaficionados que determina la mejor frecuencia 
 
 
 
-1\. \*\*Clonar el repositorio\*\*
+1\. Clonar el repositorio
 
 ```bash
 
