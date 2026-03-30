@@ -1,15 +1,3 @@
-\# 📻 Radio Communication Calculator
-
-
-
-\[!\[Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-
-\[!\[License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
-\[!\[Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey)]()
-
-
-
 Calculadora profesional para radioaficionados que determina la mejor frecuencia de comunicación entre dos estaciones, considerando potencia, tipo de antena y condiciones geográficas.
 
 
